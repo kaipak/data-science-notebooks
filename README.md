@@ -1,2 +1,2 @@
-# data-science-notebooks
-Collection of Jupyter Notebooks and Experiments from Various MooCs and Courses
+# Machine Learning Experiments
+Notebooks and experiments from MOOCs, courses, and prototyping models. 
