@@ -1,5 +1,7 @@
 data/
 datasets/
+logs/
+runs/
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,R,pycharm
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,R,pycharm
