@@ -1,2 +1,2 @@
-# Machine Learning Experiments
-Notebooks and experiments from MOOCs, courses, and prototyping models. 
+# Notebooks
+Notebooks, prototypes, experiments in Jupyter (or Jupyter-like) notebooks. 
