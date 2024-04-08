@@ -4,6 +4,7 @@ logs/
 runs/
 models
 *.pt
+.DS_Store
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,R,pycharm
